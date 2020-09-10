@@ -15,10 +15,10 @@ The GUI was built with python's tkinter package and data for training and testin
 
 ## Application GUI
 
-<img src="/images/ProfitByAlg-page-001.jpg" alt="Profit by Algorithm" width="70%" height="70%">
+<img src="/images/tkinter1.png" alt="Profit by Algorithm" width="70%" height="70%">
 <hr>
 
-<img src="/images/ProfitvsTimeBlockMined-page-001.jpg" alt="Profit vs Time block mined" width="70%" height="70%">
+<img src="/images/tkinter2.png" alt="Profit vs Time block mined" width="70%" height="70%">
 
 ## Technologies
 * Python
@@ -27,6 +27,6 @@ The GUI was built with python's tkinter package and data for training and testin
 
 ## Setup
 Clone the repository and execute the Gui.py file to lauch the application. Make sure you install the dependencies such as tkinter & 
-scikit-learn. You will aslo need an internet connection to access the biomedical databases like PubMed through the GUI.
+scikit-learn. You will also need an internet connection to access the biomedical databases like PubMed through the GUI.
 
 To compare the Naive bayes and CRF algorithms, run their individual file separately.
