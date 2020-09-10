@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29374427</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0032-5422</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>63</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Postepy biochemii</Title>
+                <ISOAbbreviation>Postepy Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Inhibitors of enzymes with potential medical applications].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>261-268</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>From the earliest times, medicine has focused on finding the most suitable and effective treatment for every patient. At present, a dynamic development of diagnostic methods and techniques for designing new drugs allows to create therapies for many diseases at the molecular level. Among the many drugs appearing on the medical market every year, special attention should be paid to those whose action is based on the inhibition of proteolytic enzyme activity. Protease inhibitors are a diverse group of biologically active molecules for which antiviral, antimicrobial, antifungal, antiparasitic or anticancer effects have been documented. Successes in the treatment of HIV infection, hepatitis C and influenza diseases certainly encourage researchers to look for new inhibitors that could be used in new therapies. This paper provides an overview of selected information on enzyme inhibitors, especially protease inhibitors, which are already registered medicines and substances that are promising candidates for medical use.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Szałapata</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Biology and Biotechnology, Maria Skłodowska-Curie University, 19 Akademicka St., 20-033 Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osińska-Jaroszuk</LastName>
+                    <ForeName>Monika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Biology and Biotechnology, Maria Skłodowska-Curie University, 19 Akademicka St., 20-033 Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jarosz-Wilkołazka</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Biology and Biotechnology, Maria Skłodowska-Curie University, 19 Akademicka St., 20-033 Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>pol</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Inhibitory enzymów o potencjalnym zastosowaniu medycznym.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Postepy Biochem</MedlineTA>
+            <NlmUniqueID>0023525</NlmUniqueID>
+            <ISSNLinking>0032-5422</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="pol">
+            <AbstractText>Już od najdawniejszych czasów medycyna skupiała się na poszukiwaniu jak najbardziej dopasowanych i skutecznych metod leczenia. Obecnie bardzo dynamiczny rozwój diagnostyki medycznej oraz technik projektowania nowych leków pozwala na tworzenie terapii dla wielu chorób na poziomie molekularnym. Wśród leków, które co roku pojawiają się na rynku medycznym, na szczególną uwagę zasługują te, których działanie oparte jest na hamowaniu aktywności enzymów proteolitycznych. Inhibitory proteaz stanowią zróżnicowaną grupę cząsteczek biologicznie aktywnych, dla których udokumentowano także działanie przeciwwirusowe, przeciwbakteryjne, przeciwgrzybicze, przeciwpasożytnicze czy przeciwnowotworowe. Sukcesy stosowania inhibitorów enzymów proteolitycznych w leczeniu takich chorób jak zakażenie HIV, wirusem zapalenia wątroby typu C czy grypy, z całą pewnością zachęcają naukowców do poszukiwania nowych inhibitorów, które mogłyby być stosowane w nowoczesnych terapiach. Niniejsza praca stanowi przegląd wybranych informacji dotyczących inhibitorów enzymów, zwłaszcza inhibitorów proteaz, które są zarejestrowanymi lekami wprowadzonymi na rynek medyczny oraz nowych związków chemicznych o obiecującym potencjale leczniczym.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">design of new drugs</Keyword>
+            <Keyword MajorTopicYN="N">protease inhibitors</Keyword>
+            <Keyword MajorTopicYN="N">proteases</Keyword>
+            <Keyword MajorTopicYN="N">specific inhibitors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29374427</ArticleId>
+            <ArticleId IdType="pii">pbv63i4p261</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

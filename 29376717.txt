@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29376717</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1079-7114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>120</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical review letters</Title>
+                <ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mean-Field Scenario for the Athermal Creep Dynamics of Yield-Stress Fluids.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>028004</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1103/PhysRevLett.120.028004</ELocationID>
+            <Abstract>
+                <AbstractText>We develop a theoretical description based on an existent mean-field model for the transient dynamics prior to the steady flow of yielding materials. The mean-field model not only reproduces the experimentally observed nonlinear time dependence of the shear-rate response to an external stress, but also allows for the determination of the different physical processes involved in the onset of the reacceleration phase after the initial slowing down and a distinct fluidization phase. The fluidization time displays a power-law dependence on the distance of the applied stress to an age-dependent yield stress, which is not universal but strongly dependent on initial conditions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martens</LastName>
+                    <ForeName>Kirsten</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrat</LastName>
+                    <ForeName>Jean-Louis</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phys Rev Lett</MedlineTA>
+            <NlmUniqueID>0401141</NlmUniqueID>
+            <ISSNLinking>0031-9007</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29376717</ArticleId>
+            <ArticleId IdType="doi">10.1103/PhysRevLett.120.028004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

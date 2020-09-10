@@ -1,0 +1,105 @@
+
+PMID- 29045825
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20171223
+IS  - 1549-9642 (Electronic)
+IS  - 1549-9634 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2018 Jan
+TI  - Cerenkov luminescence imaging on evaluation of early response to chemotherapy of 
+      drug-resistant gastric cancer.
+PG  - 205-213
+LID - S1549-9634(17)30180-6 [pii]
+LID - 10.1016/j.nano.2017.10.001 [doi]
+AB  - Apoptosis imaging enables a timely and specific assessment of treatment response 
+      in cancer patients. In this study, we applied a probe for positron emission
+      tomography (PET), which served as an optical biomaterial emitting Cerenkov
+      photons, to in vivo optical imaging of tumor apoptosis, in order to evaluate
+      early response to chemotherapy of drug-resistant gastric cancer.
+      (68)Ga-DOTA-Annexin V was prepared as the apoptosis targeting probe. Wild type
+      human gastric adenocarcinoma cell line SGC7901/WT and drug vincristine-resistant 
+      variant SGC7901/VCR were used to establish normal and vincristine-resistant
+      xenografts to simulate treatment decision situation. Vincristine-resistance of
+      SGC7901/VCR and apoptosis-induction ability of vincristine and cisplatin were
+      verified. In vitro and in vivo CLI of apoptosis was performed. Stronger signals
+      of apoptosis of CLI correlated with confirmed higher levels of apoptosis and
+      subsequent changes in tumor sizes. Our study suggests that CLI is a promising
+      technique for in vivo imaging of apoptosis with radiopharmaceutical-labeled
+      biomaterials.
+CI  - Copyright (c) 2017 Elsevier Inc. All rights reserved.
+FAU - Liu, Muhan
+AU  - Liu M
+AD  - Engineering Research Center of Molecular and Neuro Imaging of Ministry of
+      Education & School of Life Science and Technology, Xidian University, Xi'an,
+      Shaanxi, China; CAS Key Laboratory of Molecular Imaging, Institute of Automation,
+      Beijing, China; Beijing Key Laboratory of Molecular Imaging, Beijing, China.
+FAU - Zheng, Sheng
+AU  - Zheng S
+AD  - Department of Gastroenterology, General Hospital of Chinese People's Armed Police
+      Forces, Beijing, China.
+FAU - Zhang, Xiaojun
+AU  - Zhang X
+AD  - Department of Nuclear Medicine, Chinese PLA General Hospital, Beijing, China.
+FAU - Guo, Hongbo
+AU  - Guo H
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Beijing, China;
+      Beijing Key Laboratory of Molecular Imaging, Beijing, China; School of
+      Information Sciences and Technology, Northwest University, Xi'an, Shaanxi, China.
+FAU - Shi, Xiaojing
+AU  - Shi X
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Beijing, China;
+      Beijing Key Laboratory of Molecular Imaging, Beijing, China; University of
+      Chinese Academy of Sciences, Beijing, China.
+FAU - Kang, Xiaoyu
+AU  - Kang X
+AD  - State Key Laboratory of Cancer Biology, Xijing Hospital of Digestive Diseases,
+      The Fourth Military Medical University, Xi'an, Shaanxi, China.
+FAU - Qu, Yawei
+AU  - Qu Y
+AD  - Department of Gastroenterology, General Hospital of Chinese People's Armed Police
+      Forces, Beijing, China.
+FAU - Hu, Zhenhua
+AU  - Hu Z
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Beijing, China;
+      Beijing Key Laboratory of Molecular Imaging, Beijing, China; University of
+      Chinese Academy of Sciences, Beijing, China; The State Key Laboratory of
+      Management and Control for Complex Systems, Beijing, China. Electronic address:
+      zhenhua.hu@ia.ac.cn.
+FAU - Tian, Jie
+AU  - Tian J
+AD  - Engineering Research Center of Molecular and Neuro Imaging of Ministry of
+      Education & School of Life Science and Technology, Xidian University, Xi'an,
+      Shaanxi, China; CAS Key Laboratory of Molecular Imaging, Institute of Automation,
+      Beijing, China; Beijing Key Laboratory of Molecular Imaging, Beijing, China;
+      University of Chinese Academy of Sciences, Beijing, China; The State Key
+      Laboratory of Management and Control for Complex Systems, Beijing, China.
+      Electronic address: jie.tian@ia.ac.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20171016
+PL  - United States
+TA  - Nanomedicine
+JT  - Nanomedicine : nanotechnology, biology, and medicine
+JID - 101233142
+OTO - NOTNLM
+OT  - Apoptosis
+OT  - Cerenkov luminescence imaging
+OT  - Cisplatin
+OT  - Gastric cancer
+OT  - Vincristine-resistance
+EDAT- 2017/10/19 06:00
+MHDA- 2017/10/19 06:00
+CRDT- 2017/10/19 06:00
+PHST- 2017/09/09 00:00 [received]
+PHST- 2017/10/02 00:00 [revised]
+PHST- 2017/10/05 00:00 [accepted]
+PHST- 2017/10/19 06:00 [pubmed]
+PHST- 2017/10/19 06:00 [medline]
+PHST- 2017/10/19 06:00 [entrez]
+AID - S1549-9634(17)30180-6 [pii]
+AID - 10.1016/j.nano.2017.10.001 [doi]
+PST - ppublish
+SO  - Nanomedicine. 2018 Jan;14(1):205-213. doi: 10.1016/j.nano.2017.10.001. Epub 2017 
+      Oct 16.

@@ -1,0 +1,65 @@
+
+PMID- 29306743
+OWN - NLM
+STAT- Publisher
+LR  - 20180107
+IS  - 1879-0356 (Electronic)
+IS  - 1369-5266 (Linking)
+VI  - 43
+DP  - 2018 Jan 4
+TI  - Sieve-element differentiation and phloem sap contamination.
+PG  - 43-49
+LID - S1369-5266(17)30154-1 [pii]
+LID - 10.1016/j.pbi.2017.12.008 [doi]
+AB  - Sieve elements (SEs) degrade selected organelles and cytoplasmic structures when 
+      they differentiate. According to classical investigations, only smooth ER,
+      mitochondria, sieve element plastids, and, in most cases, P-proteins remain in
+      mature SEs. More recent proteomics and immuno-histochemical studies, however,
+      suggested that additional components including a protein-synthesizing machinery
+      and a fully developed actin cytoskeleton operate in mature SEs. These
+      interpretations are at odds with conventional imaging studies. Here we discuss
+      potential causes for these discrepancies, concluding that differentiating SEs may
+      play a role by 'contaminating' phloem exudates.
+CI  - Copyright (c) 2017 Elsevier Ltd. All rights reserved.
+FAU - Knoblauch, Michael
+AU  - Knoblauch M
+AD  - School of Biological Sciences, Washington State University, Pullman, WA 99163,
+      USA. Electronic address: knoblauch@wsu.edu.
+FAU - Peters, Winfried S
+AU  - Peters WS
+AD  - School of Biological Sciences, Washington State University, Pullman, WA 99163,
+      USA.
+FAU - Bell, Karen
+AU  - Bell K
+AD  - Institute of Molecular Plant Sciences, University of Edinburgh, Mayfield Road,
+      Edinburgh EH9 3JR, UK.
+FAU - Ross-Elliott, Timothy J
+AU  - Ross-Elliott TJ
+AD  - School of Biological Sciences, Washington State University, Pullman, WA 99163,
+      USA; Department of Biology, University of North Carolina at Chapel Hill, Chapel
+      Hill, NC 27599, USA.
+FAU - Oparka, Karl J
+AU  - Oparka KJ
+AD  - Institute of Molecular Plant Sciences, University of Edinburgh, Mayfield Road,
+      Edinburgh EH9 3JR, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180104
+PL  - England
+TA  - Curr Opin Plant Biol
+JT  - Current opinion in plant biology
+JID - 100883395
+EDAT- 2018/01/08 06:00
+MHDA- 2018/01/08 06:00
+CRDT- 2018/01/08 06:00
+PHST- 2017/10/22 00:00 [received]
+PHST- 2017/12/15 00:00 [revised]
+PHST- 2017/12/19 00:00 [accepted]
+PHST- 2018/01/08 06:00 [entrez]
+PHST- 2018/01/08 06:00 [pubmed]
+PHST- 2018/01/08 06:00 [medline]
+AID - S1369-5266(17)30154-1 [pii]
+AID - 10.1016/j.pbi.2017.12.008 [doi]
+PST - aheadofprint
+SO  - Curr Opin Plant Biol. 2018 Jan 4;43:43-49. doi: 10.1016/j.pbi.2017.12.008.

@@ -1,0 +1,77 @@
+
+PMID- 29306441
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180107
+IS  - 1557-7988 (Electronic)
+IS  - 0076-6879 (Linking)
+VI  - 598
+DP  - 2018
+TI  - Liposome-Assisted Metabolic Glycan Labeling With Cell and Tissue Selectivity.
+PG  - 321-353
+LID - S0076-6879(17)30220-3 [pii]
+LID - 10.1016/bs.mie.2017.06.037 [doi]
+AB  - Metabolic labeling of glycans with sugar chemical reporters (i.e., unnatural
+      sugars bearing a bioorthogonal group), followed by bioorthogonal reaction with
+      imaging probes or affinity tags, has enabled visualization and proteomic analysis
+      of glycosylation in live cells and in living animals. This two-step metabolic
+      glycan labeling strategy has emerged as a powerful tool for probing
+      glycosylation, but suffers from a lack of cell-type selectivity. Here we describe
+      liposome-assisted bioorthogonal reporter (LABOR), a liposome-assisted format of
+      metabolic glycan labeling that allows for cell-selective and tissue-specific
+      glycan imaging and glycoproteomic profiling. After a brief introduction of the
+      principles and applications of LABOR, we provide detailed protocols for
+      performing LABOR in cell culture and in living mice.
+CI  - (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Du, Yifei
+AU  - Du Y
+AD  - College of Chemistry and Molecular Engineering, Peking University, Beijing,
+      China; Peking-Tsinghua Center for Life Sciences, Peking University, Beijing,
+      China.
+FAU - Xie, Ran
+AU  - Xie R
+AD  - College of Chemistry and Molecular Engineering, Peking University, Beijing,
+      China.
+FAU - Sun, Yuting
+AU  - Sun Y
+AD  - Academy for Advanced Interdisciplinary Studies, Peking University, Beijing,
+      China.
+FAU - Fan, Xinqi
+AU  - Fan X
+AD  - College of Chemistry and Molecular Engineering, Peking University, Beijing,
+      China.
+FAU - Chen, Xing
+AU  - Chen X
+AD  - College of Chemistry and Molecular Engineering, Peking University, Beijing,
+      China; Peking-Tsinghua Center for Life Sciences, Peking University, Beijing,
+      China; Synthetic and Functional Biomolecules Center, Peking University, Beijing, 
+      China; Key Laboratory of Bioorganic Chemistry and Molecular Engineering, Peking
+      University, Beijing, China. Electronic address: xingchen@pku.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20171031
+PL  - United States
+TA  - Methods Enzymol
+JT  - Methods in enzymology
+JID - 0212271
+OTO - NOTNLM
+OT  - 9-Azido sialic acid
+OT  - Brain targeting
+OT  - Cell selectivity
+OT  - Fluorescence imaging
+OT  - Glycoproteomics
+OT  - LABOR
+OT  - Liposome-assisted labeling
+OT  - Metabolic glycan labeling
+OT  - Tissue specificity
+EDAT- 2018/01/08 06:00
+MHDA- 2018/01/08 06:00
+CRDT- 2018/01/08 06:00
+PHST- 2018/01/08 06:00 [entrez]
+PHST- 2018/01/08 06:00 [pubmed]
+PHST- 2018/01/08 06:00 [medline]
+AID - S0076-6879(17)30220-3 [pii]
+AID - 10.1016/bs.mie.2017.06.037 [doi]
+PST - ppublish
+SO  - Methods Enzymol. 2018;598:321-353. doi: 10.1016/bs.mie.2017.06.037. Epub 2017 Oct
+      31.

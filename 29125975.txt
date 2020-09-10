@@ -1,0 +1,72 @@
+
+PMID- 29125975
+OWN - NLM
+STAT- Publisher
+LR  - 20171219
+IS  - 1873-6327 (Electronic)
+IS  - 0306-4603 (Linking)
+VI  - 78
+DP  - 2017 Oct 13
+TI  - Prospective prediction of arrests for driving under the influence from
+      relationship patterns with family and friends in adolescence.
+PG  - 36-42
+LID - S0306-4603(17)30380-5 [pii]
+LID - 10.1016/j.addbeh.2017.10.004 [doi]
+AB  - Driving under the influence (DUI) is dangerous and costly, yet there are few
+      prospective studies on modifiable risk and protective processes that would inform
+      prevention. Middle adolescence, when most individuals are first learning to drive
+      and first using alcohol, may be a particularly salient period for family and
+      friendship influences on DUI risk. In the present study, youth's family and
+      friendship environments were observed and measured at age 16 in a diverse
+      community sample (n=999), and then court records were used to document arrest for
+      DUI through the age of 32years. We first examined the univariate effects of
+      family and friendship variables on later DUI and then fit more comprehensive
+      structural equation models to test predictive effects on the level of construct
+      (e.g., parental monitoring) and environment (e.g., family). Results indicate that
+      parental monitoring (Odds Ratio [OR]=0.77), positive family relations (OR=0.84), 
+      prosocial peer affiliation (OR=0.77), and deviant peer affiliation (OR=1.43) at
+      age 16 were individually predictive of arrests for DUI from ages 16 to 32, even
+      after controlling for both teen and parent alcohol use. The comprehensive,
+      multivariate models indicated that the friendship environment was most predictive
+      of arrests for DUI during the follow-up period. Together, these results are
+      consistent with a model in which attenuated family ties contribute to
+      substance-use-based friendships at age 16, which in turn contribute to an
+      increased likelihood of arrest for DUI in later adolescence and early adulthood. 
+      Implications for prevention are discussed.
+CI  - Copyright (c) 2017. Published by Elsevier Ltd.
+FAU - Pelham, William E 3rd
+AU  - Pelham WE 3rd
+AD  - REACH Institute, Department of Psychology, Arizona State University, 950 S
+      McAllister Rd., Tempe, AZ 85282, United States. Electronic address:
+      wpelham@asu.edu.
+FAU - Dishion, Thomas J
+AU  - Dishion TJ
+AD  - REACH Institute, Department of Psychology, Arizona State University, 950 S
+      McAllister Rd., Tempe, AZ 85282, United States; Oregon Research Institute, 1776
+      Millrace Dr., Eugene, OR 97303, United States.
+LA  - eng
+GR  - T32 DA039772/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+DEP - 20171013
+PL  - England
+TA  - Addict Behav
+JT  - Addictive behaviors
+JID - 7603486
+OTO - NOTNLM
+OT  - Alcohol
+OT  - Driving
+OT  - Family
+OT  - Friends
+EDAT- 2017/11/11 06:00
+MHDA- 2017/11/11 06:00
+CRDT- 2017/11/11 06:00
+PHST- 2017/07/12 00:00 [received]
+PHST- 2017/10/02 00:00 [revised]
+PHST- 2017/10/09 00:00 [accepted]
+PHST- 2017/11/11 06:00 [entrez]
+PHST- 2017/11/11 06:00 [pubmed]
+PHST- 2017/11/11 06:00 [medline]
+AID - S0306-4603(17)30380-5 [pii]
+AID - 10.1016/j.addbeh.2017.10.004 [doi]
+PST - aheadofprint
+SO  - Addict Behav. 2017 Oct 13;78:36-42. doi: 10.1016/j.addbeh.2017.10.004.

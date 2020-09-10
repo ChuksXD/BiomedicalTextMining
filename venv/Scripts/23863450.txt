@@ -1,0 +1,97 @@
+
+PMID- 23863450
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140221
+LR  - 20170220
+IS  - 1878-5905 (Electronic)
+IS  - 0142-9612 (Linking)
+VI  - 34
+IP  - 31
+DP  - 2013 Oct
+TI  - Peptide targeted tripod macrocyclic Gd(III) chelates for cancer molecular MRI.
+PG  - 7683-93
+LID - 10.1016/j.biomaterials.2013.06.057 [doi]
+LID - S0142-9612(13)00772-2 [pii]
+AB  - Rational design and develop of targeted contrast agents binding to cancer-related
+      proteins will achieve more accurate cancer diagnosis and prognosis by magnetic
+      resonance (MR) imaging. CREKA is a tumor-homing pentapeptide
+      (Cys-Arg-Glu-Lys-Ala) specifically homes to fibrin-fibronectin complexes
+      abundantly expressed in tumor microenvironment. In this study, we developed and
+      evaluated a CREKA peptide targeted multiplexed Gd-MR probe (CREKA-Tris-Gd(DOTA)3)
+      for MR imaging of breast tumors. CREKA and azide bearing Gd(III) was attached to 
+      a maleimide-functional trialkyne scaffold via thiol-maleimide and azide-alkyne
+      click chemistry, respectively. CREKA-Tris-Gd(DOTA)3 has a well-defined structure 
+      with a molecular weight of 2914 Da. The T1 relaxivity of CREKA-Tris-Gd(DOTA)3 is 
+      8.06 mM(-1) s(-1) per Gd (24.18 mM(-1) s(-1) per molecule) at room temperature
+      and 3 T. Fluorescence imaging showed high binding specificity of CREKA to a 4T1
+      breast tumor model in mice while it was not found for the scrambled CREKA
+      (CERAK). The CREKA peptide-targeted contrast agent resulted in greater contrast
+      enhancement than the corresponding CERAK agent and the commercialized contrast
+      agent ProHance((R)) in tumor at a dose of 0.1 mmol Gd/kg in female athymic mice
+      bearing 4T1 breast carcinoma xenograft. This small molecular contrast agent was
+      easily excreted from body after imaging indicated low toxicity. The targeted MRI 
+      contrast agent has a potential for specific cancer molecular imaging with MRI.
+CI  - Copyright (c) 2013. Published by Elsevier Ltd.
+FAU - Zhou, Zhuxian
+AU  - Zhou Z
+AD  - Department of Biomedical Engineering, Case Western Reserve University, Cleveland,
+      OH 44106, USA.
+FAU - Wu, Xueming
+AU  - Wu X
+FAU - Kresak, Adam
+AU  - Kresak A
+FAU - Griswold, Mark
+AU  - Griswold M
+FAU - Lu, Zheng-Rong
+AU  - Lu ZR
+LA  - eng
+GR  - R01 CA097465/CA/NCI NIH HHS/United States
+GR  - R01 EB000489/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20130714
+PL  - Netherlands
+TA  - Biomaterials
+JT  - Biomaterials
+JID - 8100316
+RN  - 0 (CREKA-Tris(Gd-DOTA)3)
+RN  - 0 (Contrast Media)
+RN  - 0 (Coordination Complexes)
+RN  - 0 (Oligopeptides)
+RN  - AU0V1LM3JT (Gadolinium)
+SB  - IM
+MH  - Animals
+MH  - Breast Neoplasms/*diagnosis
+MH  - Contrast Media/*chemistry
+MH  - Coordination Complexes/*chemistry
+MH  - Female
+MH  - Fluorescent Antibody Technique
+MH  - Gadolinium/*chemistry
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Oligopeptides/*chemistry
+PMC - PMC4060976
+MID - NIHMS506576
+OID - NLM: NIHMS506576
+OID - NLM: PMC4060976
+OTO - NOTNLM
+OT  - Cancer molecular imaging
+OT  - Gadolinium
+OT  - Peptide
+OT  - Targeted MRI contrast agent
+EDAT- 2013/07/19 06:00
+MHDA- 2014/02/22 06:00
+CRDT- 2013/07/19 06:00
+PHST- 2013/06/01 00:00 [received]
+PHST- 2013/06/26 00:00 [accepted]
+PHST- 2013/07/19 06:00 [entrez]
+PHST- 2013/07/19 06:00 [pubmed]
+PHST- 2014/02/22 06:00 [medline]
+AID - S0142-9612(13)00772-2 [pii]
+AID - 10.1016/j.biomaterials.2013.06.057 [doi]
+PST - ppublish
+SO  - Biomaterials. 2013 Oct;34(31):7683-93. doi: 10.1016/j.biomaterials.2013.06.057.
+      Epub 2013 Jul 14.

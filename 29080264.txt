@@ -1,0 +1,94 @@
+
+PMID- 29080264
+OWN - NLM
+STAT- Publisher
+LR  - 20171124
+IS  - 1747-0285 (Electronic)
+IS  - 1747-0277 (Linking)
+DP  - 2017 Oct 27
+TI  - Derivatizations of Sgc8-c aptamer to prepare metallic radiopharmaceuticals as
+      imaging diagnostic agents: Syntheses, isolations, and physicochemical
+      characterizations.
+LID - 10.1111/cbdd.13135 [doi]
+AB  - Aptamers, oligonucleotides with the capability to bind to a target through
+      non-covalent bonds with high affinity and specificity, have a great number of
+      advantages as scaffold to prepare molecular imaging agents. In this sense, we
+      have performed post-SELEX modifications of a truncated aptamer, Sgc8-c, which
+      bind to protein tyrosine kinase 7 to obtain a specific molecular targeting probe 
+      for in vivo diagnosis and in vivo therapy. Herein, we describe the synthetic
+      efforts to prepare conjugates between Sgc8-c and different metallic ions chelator
+      moieties in short times, high purities, and adequate yields. The selected
+      chelator moieties, derived from
+      1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid,
+      2-benzyl-1,4,7-triazacyclononane-1,4,7-triacetic acid, and 6-hydrazinonicotinic
+      acid, were covalently attached at the 5'-aptamer position yielding the expected
+      products which were stable in aqueous solution up to 75 degrees C and in typical 
+      aptamer storage conditions at least for 30 days.
+CI  - (c) 2017 John Wiley & Sons A/S.
+FAU - Sicco, Estefania
+AU  - Sicco E
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+AD  - Departamento de Desarrollo Biotecnologico, Facultad de Medicina, Instituto de
+      Higiene, Universidad de la Republica, Montevideo, Uruguay.
+FAU - Baez, Jessica
+AU  - Baez J
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+AD  - Facultad de Quimica, Centro de Evaluacion de Biodisponibilidad y Bioequivalencia 
+      de Medicamentos, Universidad de la Republica, Montevideo, Uruguay.
+FAU - Margenat, Jimena
+AU  - Margenat J
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+FAU - Garcia, Fernanda
+AU  - Garcia F
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+FAU - Ibarra, Manuel
+AU  - Ibarra M
+AD  - Facultad de Quimica, Centro de Evaluacion de Biodisponibilidad y Bioequivalencia 
+      de Medicamentos, Universidad de la Republica, Montevideo, Uruguay.
+FAU - Cabral, Pablo
+AU  - Cabral P
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+FAU - Moreno, Maria
+AU  - Moreno M
+AD  - Departamento de Desarrollo Biotecnologico, Facultad de Medicina, Instituto de
+      Higiene, Universidad de la Republica, Montevideo, Uruguay.
+FAU - Cerecetto, Hugo
+AU  - Cerecetto H
+AUID- ORCID: http://orcid.org/0000-0003-1256-3786
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+FAU - Calzada, Victoria
+AU  - Calzada V
+AD  - Area de Radiofarmacia, Facultad de Ciencias, Centro de Investigaciones Nucleares,
+      Universidad de la Republica, Montevideo, Uruguay.
+LA  - eng
+PT  - Journal Article
+DEP - 20171027
+PL  - England
+TA  - Chem Biol Drug Des
+JT  - Chemical biology & drug design
+JID - 101262549
+OTO - NOTNLM
+OT  - DOTA
+OT  - HYNIC
+OT  - NOTA
+OT  - aptamer
+OT  - post-SELEX modifications
+OT  - radiopharmaceutical
+EDAT- 2017/10/29 06:00
+MHDA- 2017/10/29 06:00
+CRDT- 2017/10/29 06:00
+PHST- 2017/05/22 00:00 [received]
+PHST- 2017/07/09 00:00 [revised]
+PHST- 2017/10/04 00:00 [accepted]
+PHST- 2017/10/29 06:00 [pubmed]
+PHST- 2017/10/29 06:00 [medline]
+PHST- 2017/10/29 06:00 [entrez]
+AID - 10.1111/cbdd.13135 [doi]
+PST - aheadofprint
+SO  - Chem Biol Drug Des. 2017 Oct 27. doi: 10.1111/cbdd.13135.

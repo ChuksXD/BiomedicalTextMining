@@ -1,0 +1,96 @@
+
+PMID- 29136092
+OWN - NLM
+STAT- Publisher
+LR  - 20171114
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+DP  - 2017 Nov 9
+TI  - microRPM: A microRNA Prediction Model based only on plant small RNA sequencing
+      data.
+LID - 10.1093/bioinformatics/btx725 [doi]
+AB  - Motivation: MicroRNAs (miRNAs) are endogenous non-coding small RNAs (of about 22 
+      nucleotides), which play an important role in the post-transcriptional regulation
+      of gene expression via either mRNA cleavage or translation inhibition. Several
+      machine learning-based approaches have been developed to identify novel miRNAs
+      from next generation sequencing (NGS) data. Typically, precursor/genomic
+      sequences are required as references for most methods. However, the
+      non-availability of genomic sequences is often a limitation in miRNA discovery in
+      non-model plants. A systematic approach to determine novel miRNAs without
+      reference sequences is thus necessary. Results: In this study, an effective
+      method was developed to identify miRNAs from non-model plants based only on NGS
+      datasets. The miRNA prediction model was trained with several duplex
+      structure-related features of mature miRNAs and their passenger strands using a
+      support vector machine (SVM) algorithm. The accuracy of the independent test
+      reached 96.61% and 93.04% for dicots (Arabidopsis) and monocots (rice),
+      respectively. Furthermore, true small RNA sequencing data from orchids was tested
+      in this study. Twenty-one predicted orchid miRNAs were selected and
+      experimentally validated. Significantly, eighteen of them were confirmed in the
+      qRT-PCR experiment. This novel approach was also compiled as a user-friendly
+      program called microRPM (microRNA Prediction Model). Availability: This resource 
+      is freely available at http://microRPM.itps.ncku.edu.tw. Contact:
+      sarah321@mail.ncku.edu.tw. Supplementary information: Supplementary data are
+      available at Bioinformatics online.
+FAU - Tseng, Kuan-Chien
+AU  - Tseng KC
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Chiang-Hsieh, Yi-Fan
+AU  - Chiang-Hsieh YF
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Pai, Hsuan
+AU  - Pai H
+AD  - Institute of Plant and Microbial Biology, Academia Sinica, NanKang Taipei 115,
+      Taiwan.
+FAU - Chow, Chi-Nga
+AU  - Chow CN
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Lee, Shu-Chuan
+AU  - Lee SC
+AD  - Institute of Plant and Microbial Biology, Academia Sinica, NanKang Taipei 115,
+      Taiwan.
+FAU - Zheng, Han-Qin
+AU  - Zheng HQ
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Kuo, Po-Li
+AU  - Kuo PL
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Li, Guan-Zhen
+AU  - Li GZ
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Hung, Yu-Cheng
+AU  - Hung YC
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+FAU - Lin, Na-Sheng
+AU  - Lin NS
+AD  - Institute of Plant and Microbial Biology, Academia Sinica, NanKang Taipei 115,
+      Taiwan.
+FAU - Chang, Wen-Chi
+AU  - Chang WC
+AD  - College of Biosciences and Biotechnology, Institute of Tropical Plant Sciences,
+      National Cheng Kung University, Tainan 70101, Taiwan.
+LA  - eng
+PT  - Journal Article
+DEP - 20171109
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+EDAT- 2017/11/15 06:00
+MHDA- 2017/11/15 06:00
+CRDT- 2017/11/15 06:00
+PHST- 2017/05/29 00:00 [received]
+PHST- 2017/11/06 00:00 [accepted]
+PHST- 2017/11/15 06:00 [entrez]
+PHST- 2017/11/15 06:00 [pubmed]
+PHST- 2017/11/15 06:00 [medline]
+AID - 4609353 [pii]
+AID - 10.1093/bioinformatics/btx725 [doi]
+PST - aheadofprint
+SO  - Bioinformatics. 2017 Nov 9. pii: 4609353. doi: 10.1093/bioinformatics/btx725.

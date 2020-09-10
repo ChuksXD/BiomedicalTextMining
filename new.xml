@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">29385648</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>01</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-313X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Jan</Month>
+              <Day>31</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Plant journal : for cell and molecular biology</Title>
+          <ISOAbbreviation>Plant J.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Specific substitutions of light-harvesting complex I proteins associated with photosystem I are required for supercomplex formation with chloroplast NADH dehydrogenase-like complex.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/tpj.13846</ELocationID>
+        <Abstract>
+          <AbstractText>In Arabidopsis, the chloroplast NADH-dehydrogenase-like (NDH) complex is sandwiched between two copies of photosystem I (PSI) supercomplex consisting of a PSI core and four light-harvesting complex I (LHCI) proteins (PSI-LHCI) to form the NDH-PSI supercomplex. Two minor LHCI proteins, Lhca5 and Lhca6, contribute to the interaction of each PSI-LHCI copy with the NDH complex. Here, large-pore blue-native gel electrophoresis revealed that, in addition to this complex, there were at least two types of higher-order association of more LHCI copies with the NDH complex. In single-particle images, this higher-order association of PSI-LHCI preferentially occurs at the left side of the NDH complex when viewed from the stromal side, placing subcomplex A at the top (Yadav et al., 2017). The association was impaired in the lhca6 mutant but not in the lhca5 mutant, suggesting that the left copy of PSI-LHCI was linked to the NDH complex via Lhca6. From an analysis of subunit compositions of the NDH-PSI supercomplex in lhca5 and lhca6 mutants, we propose that Lhca6 substitutes for Lhca2 in the left copy of PSI-LHCI, whereas Lhca5 substitutes for Lhca4 in the right copy. In the lhca2 mutant, Lhca3 was specifically stabilized in the NDH-PSI supercomplex though heterodimer formation with Lhca6. In the left copy of PSI-LHCI, subcomplex B, Lhca6, and NdhD likely formed the core of the supercomplex interaction. In contrast, a larger protein complex, including at least subcomplexes B and L and NdhB, was needed to form the contact site with Lhca5 in the right copy of PSI-LHCI. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList>
+          <Author ValidYN="Y">
+            <LastName>Otani</LastName>
+            <ForeName>Takuto</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Graduate School of Science, Kyoto University, Kyoto, 606-8502, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kato</LastName>
+            <ForeName>Yoshinobu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Graduate School of Science, Kyoto University, Kyoto, 606-8502, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shikanai</LastName>
+            <ForeName>Toshiharu</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Graduate School of Science, Kyoto University, Kyoto, 606-8502, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>01</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Plant J</MedlineTA>
+        <NlmUniqueID>9207397</NlmUniqueID>
+        <ISSNLinking>0960-7412</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList>
+        <Keyword MajorTopicYN="N">LHCI</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29385648</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

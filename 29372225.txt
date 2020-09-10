@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29372225</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-6848</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Soft matter</Title>
+                <ISOAbbreviation>Soft Matter</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Self-organization in dipolar cube fluids constrained by competing anisotropies.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c7sm02174g</ELocationID>
+            <Abstract>
+                <AbstractText>For magnetite spherical nanoparticles, the orientation of the dipole moment in the crystal does not affect the morphology of either zero field or field induced structures. For non-spherical particles however, an interplay between particle shape and direction of the magnetic moment can give rise to unusual behaviors, in particular when the moment is not aligned along a particle symmetry axis. Here we disclose for the first time the unique magnetic properties of hematite cubic particles and show the exact orientation of the cubes' dipole moment. Using a combination of experiments and computer simulations, we show that dipolar hematite cubes self-organize into dipolar chains with morphologies remarkably different from those of spheres, and demonstrate that the emergence of these structures is driven by competing anisotropic interactions caused by the particles' shape anisotropy and their fixed dipole moment. Furthermore, we have analytically identified a specific interplay between energy, and entropy at the microscopic level and found that an unorthodox entropic contribution mediates the organization of particles into the kinked nature of the dipolar chains.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rossi</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0215-5386</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Physics, University of Amsterdam, 1098XH Amsterdam, The Netherlands. L.Rossi@uva.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Donaldson</LastName>
+                    <ForeName>Joe G</ForeName>
+                    <Initials>JG</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4733-0667</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Physics, University of Vienna, Boltzmanngasse 5, 1090, Vienna, Austria. Joe.Donaldson@univie.ac.at.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meijer</LastName>
+                    <ForeName>Janne-Mieke</ForeName>
+                    <Initials>JM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5148-9948</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Van 't Hoff Laboratory for Physical and Colloid Chemistry, Debye Institute for Nanomaterials Science, Utrecht University, Padualaan 8, 3584CH, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petukhov</LastName>
+                    <ForeName>Andrei V</ForeName>
+                    <Initials>AV</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9840-6014</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Van 't Hoff Laboratory for Physical and Colloid Chemistry, Debye Institute for Nanomaterials Science, Utrecht University, Padualaan 8, 3584CH, The Netherlands and Laboratory of Physical Chemistry, Eindhoven University of Technology, 5600MB, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kleckner</LastName>
+                    <ForeName>Dustin</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Franck institute, Enrico Fermi Institute and Department of Physics, University of Chicago, Chicago, IL 60637, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kantorovich</LastName>
+                    <ForeName>Sofia S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Physics, University of Vienna, Boltzmanngasse 5, 1090, Vienna, Austria. Joe.Donaldson@univie.ac.at and Ural Federal University, Lenin av. 51, Ekaterinburg, 620083, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Irvine</LastName>
+                    <ForeName>William T M</ForeName>
+                    <Initials>WTM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4925-2060</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>James Franck institute, Enrico Fermi Institute and Department of Physics, University of Chicago, Chicago, IL 60637, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Philipse</LastName>
+                    <ForeName>Albert P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Van 't Hoff Laboratory for Physical and Colloid Chemistry, Debye Institute for Nanomaterials Science, Utrecht University, Padualaan 8, 3584CH, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sacanna</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8399-3524</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Design Institute, Department of Chemistry, New York University, New York, NY 10003, USA. S.Sacanna@nyu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Soft Matter</MedlineTA>
+            <NlmUniqueID>101295070</NlmUniqueID>
+            <ISSNLinking>1744-683X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29372225</ArticleId>
+            <ArticleId IdType="doi">10.1039/c7sm02174g</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

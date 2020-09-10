@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29357288</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-5832</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jan</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug discovery today</Title>
+                <ISOAbbreviation>Drug Discov. Today</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Microfluidic platforms for modeling biological barriers in the circulatory system.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1359-6446(17)30422-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drudis.2018.01.036</ELocationID>
+            <Abstract>
+                <AbstractText>Microfluidic platforms have recently become popular as in vitro models because of their superiority in recapitulating microenvironments compared with conventional in vitro models. By providing various biochemical and biomechanical cues, healthy and diseased models at the organ level can be applied to disease progression and treatment studies. Microfluidic technologies are especially suitable for modeling biological barriers because the flow in the microchannels mimics the blood flow and body fluids at the interfaces of crucial organs, such as lung, intestine, liver, kidney, brain, and skin. These barriers have similar structures and can be studied with similar approaches for the testing of pharmaceutical compounds. Here, we review recent developments in microfluidic platforms for modeling biological barriers in the circulatory system.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore Institute of Manufacturing Technology, 2 Fusionopolis Way, #08-04, Innovis, Singapore 138634, Republic of Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Selva Kumar</LastName>
+                    <ForeName>Nivasini DO</ForeName>
+                    <Initials>ND</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology61, Biopolis Dr, Singapore 138673, Republic of Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhury</LastName>
+                    <ForeName>Deepak</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore Institute of Manufacturing Technology, 2 Fusionopolis Way, #08-04, Innovis, Singapore 138634, Republic of Singapore. Electronic address: deepakc@SIMTech.a-star.edu.sg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foo</LastName>
+                    <ForeName>Lynette C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology61, Biopolis Dr, Singapore 138673, Republic of Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Sum Huan</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore Institute of Manufacturing Technology, 2 Fusionopolis Way, #08-04, Innovis, Singapore 138634, Republic of Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Drug Discov Today</MedlineTA>
+            <NlmUniqueID>9604391</NlmUniqueID>
+            <ISSNLinking>1359-6446</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biological barrier</Keyword>
+            <Keyword MajorTopicYN="N">circulatory system</Keyword>
+            <Keyword MajorTopicYN="N">drug screening</Keyword>
+            <Keyword MajorTopicYN="N">microfluidic devices</Keyword>
+            <Keyword MajorTopicYN="N">organ-on-a-chip</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29357288</ArticleId>
+            <ArticleId IdType="pii">S1359-6446(17)30422-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drudis.2018.01.036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

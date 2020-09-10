@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" ?>
+
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29628139</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-1755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Apr</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international</Title>
+                <ISOAbbreviation>Kidney Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Drug repurposing in kidney disease.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0085-2538(18)30123-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.kint.2017.12.026</ELocationID>
+            <Abstract>
+                <AbstractText>Drug repurposing, is the re-tasking of known medications for new clinical indications. Advantages, compared to de novo drug development, include reduced cost and time to market plus the added benefit of a known pharmacokinetic and safety profiles. Suitable drug candidates are identified through serendipitous observations, data mining, or increased understanding of disease mechanisms. This review highlights drugs suited for repurposing in kidney disease. The main cause of mortality in patients with chronic kidney disease is cardiovascular disease. Hence, we have included CV endpoints for the drugs. This review begins with candidates in acute kidney injury: vasodilators levosimendan and vitamin D, followed by candidates in CKD, with particular focus on diabetic kidney disease, autosomal dominant polycystic kidney disease, and focal segmental glomerulosclerosis. Examples include glucose-lowering drugs (sodium glucose co-transporter 2 inhibitors, glucagon-like peptide 1 agonists, and metformin), which have mechanistic potential for cardiac and/or renal protection beyond glucose lowering, with broader applicability to the nondiabetic population; xanthine oxidase inhibitors (allopurinol, febuxostat), selective endothelin receptor A antagonist (atrasentan), Janus kinase inhibitor (baricitinib), selective costimulation modulator (abatacept), pentoxyfylline, and the DNA demethylating agent/vasodilator (hydralazine).</AbstractText>
+                <CopyrightInformation>Copyright © 2018 International Society of Nephrology. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panchapakesan</LastName>
+                    <ForeName>Usha</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Research Group, Kolling Institute of Medical Research, Royal North Shore Hospital, University of Sydney, New South Wales 2065, Australia. Electronic address: usha.panchapakesan@sydney.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pollock</LastName>
+                    <ForeName>Carol</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Research Group, Kolling Institute of Medical Research, Royal North Shore Hospital, University of Sydney, New South Wales 2065, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int</MedlineTA>
+            <NlmUniqueID>0323470</NlmUniqueID>
+            <ISSNLinking>0085-2538</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CV</Keyword>
+            <Keyword MajorTopicYN="N">acute kidney injury</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">drug repurposing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29628139</ArticleId>
+            <ArticleId IdType="pii">S0085-2538(18)30123-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.kint.2017.12.026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

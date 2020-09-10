@@ -1,0 +1,94 @@
+
+PMID- 29181270
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20171201
+IS  - 2160-8407 (Print)
+VI  - 7
+IP  - 5
+DP  - 2017
+TI  - Safety and accuracy of (68)Ga-DOTATOC PET/CT in children and young adults with
+      solid tumors.
+PG  - 228-235
+AB  - (68)Ga-DOTA-tyr3-Octreotide ((68)Ga-DOTATOC) PET/CT has been shown to have high
+      accuracy in adults with neuroendocrine tumors, however has not been studied in
+      pediatric patients. This study evaluated the safety and accuracy of
+      (68)Ga-DOTATOC PET/CT in children and young adults with solid tumors that express
+      somatostatin receptor type 2. A series of three prospective, IRB approved,
+      clinical trials evaluating safety and efficacy of (68)Ga-DOTATOC PET/CT were
+      conducted for subjects aged 6 months to 90 years. This study reports the results 
+      for the 26 children and young adults, aged 16 months to 29 years who participated
+      in these trials. The administered activity of (68)Ga-DOTATOC was 1.59 MBq/kg with
+      an upper limit of 111 MBq for subjects < 18 years and 148 MBq for young adults.
+      Safety was assessed with laboratory studies and patient/parent report of symptoms
+      before and after the scan. Scans were interpreted in consensus by two
+      board-certified nuclear medicine physicians. Each scan was categorized on a
+      patient basis as true positive, true negative, false negative or false positive
+      against a reference standard that included a combination of histopathology, other
+      imaging modalities and clinical follow-up. Nine Grade I adverse events (AEs)
+      occurred among 26 subjects, none of which were attributable to (68)Ga-DOTATOC.
+      Sensitivity of (68)Ga-DOTATOC PET/CT was 88% (14 true positive, 2 false negative)
+      and specificity was 100% (10 true negative, 0 false positive). (68)Ga-DOTATOC
+      PET/CT is safe and accurate in children and young adults with solid tumors
+      expressing somatostatin receptor type 2.
+FAU - Abongwa, Chenue
+AU  - Abongwa C
+AD  - Department of Pediatrics, Roy J. and Lucille A. Carver College of Medicine,
+      University of IowaIowa City, Iowa 52242, USA.
+FAU - Mott, Sarah
+AU  - Mott S
+AD  - Holden Comprehensive Cancer Center, Roy J. and Lucille A. Carver College of
+      Medicine, University of IowaIowa City, Iowa 52242, USA.
+FAU - Schafer, Blanca
+AU  - Schafer B
+AD  - Department of Pediatrics, Roy J. and Lucille A. Carver College of Medicine,
+      University of IowaIowa City, Iowa 52242, USA.
+FAU - McNeely, Parren
+AU  - McNeely P
+AD  - Department of Radiology, Roy J. and Lucille A. Carver College of Medicine,
+      University of IowaIowa City, Iowa 52242, USA.
+FAU - Abusin, Ghada
+AU  - Abusin G
+AD  - Department of Pediatrics, Roy J. and Lucille A. Carver College of Medicine,
+      University of IowaIowa City, Iowa 52242, USA.
+FAU - O'Dorisio, Thomas
+AU  - O'Dorisio T
+AD  - Department of Internal Medicine, Roy J. and Lucille A. Carver College of
+      Medicine, University of IowaIowa City, Iowa 52242, USA.
+FAU - Zamba, Gideon
+AU  - Zamba G
+AD  - Department of Biostatistics, College of Public Health, University of IowaIowa
+      City, Iowa 52242, USA.
+FAU - O'Dorisio, M Sue
+AU  - O'Dorisio MS
+AD  - Department of Pediatrics, Roy J. and Lucille A. Carver College of Medicine,
+      University of IowaIowa City, Iowa 52242, USA.
+FAU - Menda, Yusuf
+AU  - Menda Y
+AD  - Department of Radiology, Roy J. and Lucille A. Carver College of Medicine,
+      University of IowaIowa City, Iowa 52242, USA.
+LA  - eng
+GR  - P50 CA174521/CA/NCI NIH HHS/United States
+GR  - R01 CA167632/CA/NCI NIH HHS/United States
+PT  - Journal Article
+DEP - 20171101
+PL  - United States
+TA  - Am J Nucl Med Mol Imaging
+JT  - American journal of nuclear medicine and molecular imaging
+JID - 101564121
+PMC - PMC5698616
+OTO - NOTNLM
+OT  - 68Ga-DOTATOC
+OT  - children
+OT  - solid tumor
+OT  - somatostatin
+EDAT- 2017/11/29 06:00
+MHDA- 2017/11/29 06:01
+CRDT- 2017/11/29 06:00
+PHST- 2017/08/02 00:00 [received]
+PHST- 2017/10/16 00:00 [accepted]
+PHST- 2017/11/29 06:00 [entrez]
+PHST- 2017/11/29 06:00 [pubmed]
+PHST- 2017/11/29 06:01 [medline]
+PST - epublish
+SO  - Am J Nucl Med Mol Imaging. 2017 Nov 1;7(5):228-235. eCollection 2017.

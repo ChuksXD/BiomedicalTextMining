@@ -1,0 +1,72 @@
+PMID	-	29159606
+OWN	-	NLM
+STAT	-	Publisher
+LR	-	20171121
+IS	-	1432-2323 (Electronic)
+IS	-	0364-2313 (Linking)
+DP	-	2017 Nov 20
+TI	-	Preoperative (68)Ga-DOTA-Somatostatin Analog-PET/CT Hybrid Imaging Increases 
+		Detection Rate of Intra-abdominal Small Intestinal Neuroendocrine Tumor Lesions.
+LID	-	10.1007/s00268-017-4364-1 [doi]
+AB	-	BACKGROUND: Small intestinal neuroendocrine tumors (SI-NETs) are the most common
+		form of neoplasm in the small bowel. Radiological identification of primary
+		"tumors (PT), which may be multiple, is difficult, and therefore palpation of the"
+		entire small bowel is routinely performed during laparotomy. The aim was to
+		determine detection rates of PT and peritoneal carcinomatosis (PC) with
+		(68)Ga-DOTATOC/TATE-PET/CT in comparison with i.v. contrast-enhanced computed
+		tomography (CE-CT) and thus to clarify whether modern functional imaging can
+		mitigate the need for palpation of bowel during surgery enabling oncologically
+		adequate laparoscopic resection. METHODS: A total of 28 patients with SI-NET who
+		preoperatively underwent both (68)Ga-DOTATOC/TATE-PET/CT and CE-CT were included.
+		The detection rates of PT and PC for PET/CT and CE-CT were compared to the
+		findings in the surgical and histopathological reports. Appropriate statistical
+		"tests were used, and significance was set to p < 0.05. RESULTS: Out of 82 PT, 43"
+		PT were not detected by any imaging modality. More PT lesions were detected with
+		"PET/CT (n = 39 [47.5%]) than with CE-CT (n = 10 [12.2%], p < 0.001). Also, PET/CT"
+		"identified significantly more PC lesions than CE-CT (78 and 38%, p = 0.004,"
+		respectively). CONCLUSION: PET/CT detected more PT and PC lesions than CE-CT.
+		"Some PTs and PC lesions were only detected by one of the modalities, and CT"
+		performed in conjunction with PET/CT should therefore be performed as a fully
+		diagnostic CE-CT for optimal results. Palpation of the small bowel remains
+		crucial during surgery in these patients because several PTs escaped detection by
+		both PET/CT and CE-CT.
+FAU	-	"Norlen, Olov"
+AU	-	Norlen O
+AD	-	"Department of Surgery, Institute of Surgical Sciences, Uppsala University"
+		"Hospital, Uppsala University, Uppsala, Sweden."
+FAU	-	"Montan, Harald"
+AU	-	Montan H
+AD	-	"Department of Radiology and Molecular Imaging, Institute of Surgical Sciences,"
+		"Uppsala University Hospital, Uppsala University, 751 85, Uppsala, Sweden."
+FAU	-	"Hellman, Per"
+AU	-	Hellman P
+AD	-	"Department of Surgery, Institute of Surgical Sciences, Uppsala University"
+		"Hospital, Uppsala University, Uppsala, Sweden."
+FAU	-	"Stalberg, Peter"
+AU	-	Stalberg P
+AD	-	"Department of Surgery, Institute of Surgical Sciences, Uppsala University"
+		"Hospital, Uppsala University, Uppsala, Sweden."
+FAU	-	"Sundin, Anders"
+AU	-	Sundin A
+AUID	-	ORCID: http://orcid.org/0000-0002-2214-6217
+AD	-	"Department of Radiology and Molecular Imaging, Institute of Surgical Sciences,"
+		"Uppsala University Hospital, Uppsala University, 751 85, Uppsala, Sweden."
+		anders.sundin@radiol.uu.se.
+LA	-	eng
+PT	-	Journal Article
+DEP	-	20171120
+PL	-	United States
+TA	-	World J Surg
+JT	-	World journal of surgery
+JID	-	7704052
+EDAT	-	11/22/2017 6:00
+MHDA	-	11/22/2017 6:00
+CRDT	-	11/22/2017 6:00
+PHST	-	2017/11/22 06:00 [entrez]
+PHST	-	2017/11/22 06:00 [pubmed]
+PHST	-	2017/11/22 06:00 [medline]
+AID	-	10.1007/s00268-017-4364-1 [doi]
+AID	-	10.1007/s00268-017-4364-1 [pii]
+PST	-	aheadofprint
+SO	-	World J Surg. 2017 Nov 20. pii: 10.1007/s00268-017-4364-1. doi:
+		10.1007/s00268-017-4364-1.

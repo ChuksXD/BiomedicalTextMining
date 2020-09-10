@@ -1,0 +1,78 @@
+
+PMID- 29222727
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20171213
+IS  - 1817-406X (Print)
+IS  - 1817-406X (Linking)
+VI  - 58
+IP  - 1
+DP  - 2017 Dec 8
+TI  - A method for facilitating the seed germination of a mycoheterotrophic orchid,
+      Gastrodia pubilabiata, using decomposed leaf litter harboring a basidiomycete
+      fungus, Mycena sp.
+PG  - 59
+LID - 10.1186/s40529-017-0214-6 [doi]
+AB  - BACKGROUND: Mycoheterotrophic plants are one of the most difficult plant groups
+      to conserve because they are entirely dependent on symbiotic fungi. Establishment
+      of viable culture systems would greatly aid their conservation. We describe a
+      simple culture system for the mycoheterotrophic orchid, Gastrodia pubilabiata,
+      that does not require laboratory facilities. The orchid is symbiotic with
+      leaf-litter-decomposing fungi. RESULTS: Gastrodia pubilabiata seeds were
+      incubated in plastic boxes or glass bottles filled with leaf litter collected
+      from the natural habitat of the species. Seed germination was observed after 35
+      days and seedling development followed. Fungal isolates from seedlings were
+      identified as Mycenaceae (Basidiomycota), a leaf-litter-decomposing mycorrhizal
+      fungus of Gastrodia species. CONCLUSION: Our method can be used to conserve
+      endangered mycoheterotrophic plants associated with leaf litter-decomposing fungi
+      efficiently, and can also serve as a model system for physiological and molecular
+      studies of such plants.
+FAU - Higaki, Kana
+AU  - Higaki K
+AD  - Faculty of Agriculture, Saga University, 1 Honjo-machi, Saga, 840-8502, Japan.
+FAU - Rammitsu, Kento
+AU  - Rammitsu K
+AD  - Faculty of Agriculture, Saga University, 1 Honjo-machi, Saga, 840-8502, Japan.
+FAU - Yamashita, Yumi
+AU  - Yamashita Y
+AD  - Tsukuba Botanical Garden, National Museum of Nature and Science, 4-1-1 Amakubo,
+      Tsukuba, Ibaraki, 305-0005, Japan.
+FAU - Yukawa, Tomohisa
+AU  - Yukawa T
+AD  - Tsukuba Botanical Garden, National Museum of Nature and Science, 4-1-1 Amakubo,
+      Tsukuba, Ibaraki, 305-0005, Japan.
+FAU - Ogura-Tsujita, Yuki
+AU  - Ogura-Tsujita Y
+AUID- ORCID: http://orcid.org/0000-0003-4877-4702
+AD  - Faculty of Agriculture, Saga University, 1 Honjo-machi, Saga, 840-8502, Japan.
+      ytsujita@cc.saga-u.ac.jp.
+LA  - eng
+GR  - 15H04417/Japan Society for the Promotion of Science/United States
+GR  - 17K07536/Japan Society for the Promotion of Science/United States
+GR  - Integrated analysis of natural histroy collections for conservation of highly
+      endangered species/A National Museum of Nature and Science research grant/United 
+      States
+PT  - Journal Article
+DEP - 20171208
+PL  - England
+TA  - Bot Stud
+JT  - Botanical studies
+JID - 101321928
+PMC - PMC5722783
+OTO - NOTNLM
+OT  - Conservation
+OT  - Gastrodia
+OT  - Leaf litter-decomposing fungi
+OT  - Mycoheterotrophic plants
+EDAT- 2017/12/10 06:00
+MHDA- 2017/12/10 06:01
+CRDT- 2017/12/10 06:00
+PHST- 2017/09/05 00:00 [received]
+PHST- 2017/12/01 00:00 [accepted]
+PHST- 2017/12/10 06:00 [entrez]
+PHST- 2017/12/10 06:00 [pubmed]
+PHST- 2017/12/10 06:01 [medline]
+AID - 10.1186/s40529-017-0214-6 [doi]
+AID - 10.1186/s40529-017-0214-6 [pii]
+PST - epublish
+SO  - Bot Stud. 2017 Dec 8;58(1):59. doi: 10.1186/s40529-017-0214-6.

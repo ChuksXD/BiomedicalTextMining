@@ -1,0 +1,58 @@
+
+PMID- 29293308
+OWN - NLM
+STAT- Publisher
+LR  - 20180102
+IS  - 1520-6882 (Electronic)
+IS  - 0003-2700 (Linking)
+DP  - 2018 Jan 2
+TI  - Gadolinium-Labelled Aminoglycoside and its Potential Application as a
+      Bacteria-Targeting Magnetic Resonance Imaging Contrast Agent.
+LID - 10.1021/acs.analchem.7b04029 [doi]
+AB  - Magnetic resonance imaging (MRI) is a powerful diagnostic technique that can
+      penetrate deep into tissue providing excellent spatial resolution without the
+      need for ionizing radiation or harmful radionuclides. However, diagnosing
+      bacterial infections in vivo with clinical MRI is severely hampered by the lack
+      of contrast agents with high relaxivity, targeting capabilities and bacte-rial
+      penetration and specificity. Here, we report the development of the first
+      gadolinium (Gd)-based bacteria-specific targeting MRI contrast agent, probe 1, by
+      conjugating neomycin, an aminoglycoside antibiotic, with Dotarem (Gd-DOTA, an FDA
+      ap-proved T1-weighted MRI contrast agent). The T1 relaxivity of probe 1 was found
+      to be comparable to that of Gd-DOTA; addi-tionally, probe 1-treated bacteria
+      generated a significantly brighter T1-weighted MR signal than Gd-DOTA-treated
+      bacteria. More importantly, in vitro cellular studies and preliminary in vivo MRI
+      demonstrated probe 1 exhibits the ability to efficiently target bacteria over
+      macrophage-like cells, indicating its great potential for high-resolution imaging
+      of bacterial infections in vivo.
+FAU - Zhang, Lei Lei
+AU  - Zhang LL
+FAU - Liu, Yun
+AU  - Liu Y
+FAU - Zhang, Qingyang
+AU  - Zhang Q
+FAU - Li, Tiegang
+AU  - Li T
+FAU - Yang, Min
+AU  - Yang M
+FAU - Yao, Qingqiang
+AU  - Yao Q
+FAU - Xie, Xilei
+AU  - Xie X
+FAU - Hu, Hai-Yu
+AU  - Hu HY
+LA  - eng
+PT  - Journal Article
+DEP - 20180102
+PL  - United States
+TA  - Anal Chem
+JT  - Analytical chemistry
+JID - 0370536
+EDAT- 2018/01/03 06:00
+MHDA- 2018/01/03 06:00
+CRDT- 2018/01/03 06:00
+PHST- 2018/01/03 06:00 [entrez]
+PHST- 2018/01/03 06:00 [pubmed]
+PHST- 2018/01/03 06:00 [medline]
+AID - 10.1021/acs.analchem.7b04029 [doi]
+PST - aheadofprint
+SO  - Anal Chem. 2018 Jan 2. doi: 10.1021/acs.analchem.7b04029.
